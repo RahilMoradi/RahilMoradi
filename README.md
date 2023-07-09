@@ -3,7 +3,7 @@ I'm a digital product designer experienced in creating user-centered and intuiti
 
 ### Expertise
 - Product design
-- User experience design
+- User experience design / UED
 - UX research
 - Information Architecture
 - Wireframing
