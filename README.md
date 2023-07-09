@@ -9,7 +9,7 @@ I'm a digital product designer experienced in creating user-centered and intuiti
 - Information architecture
 - Wireframing
 - Prototyping
-- Interaction Design
+- Interaction design
 - Visual design
 - UI design
 - Design systems 
@@ -20,17 +20,5 @@ I'm a digital product designer experienced in creating user-centered and intuiti
 - Presentation
 - Stakeholder management
 - Design thinking
-
-### Tools I Use 💻
-- Figma
-- Sketch
-- Adobe Creative Suite
-- Git
-- HTML/CSS
-- WordPress
-- Jira
-- Zeplin
-- Webflow
-- AutoCAD
 
 ## Let's get in touch! 📨 [Linkedin](https://www.linkedin.com/in/rahilmoradi/)
