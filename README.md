@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a digital product designer experienced in creating user-centered and intuitive digital design deliverables 👩‍💻 Passionate about crafting innovative and accessible solutions for our modern life experiences 🎯 Tech optimist and fast adopter of new design technologies 🪄
+I'm a digital product designer experienced in creating user-centered and intuitive digital design deliverables 👩‍💻 Passionate about crafting innovative and accessible solutions for our modern life experiences 🎯 Tech optimist 🪄
 
 ### Expertise
 - Product design
