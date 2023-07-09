@@ -3,7 +3,7 @@ I'm a digital product designer experienced in creating user-centered and intuiti
 
 ### Expertise
 - Product design
-- User experience design / UED
+- User experience designs
 - UX research
 - Information Architecture
 - Wireframing
@@ -12,8 +12,8 @@ I'm a digital product designer experienced in creating user-centered and intuiti
 - Visual design
 - UI design
 - Design systems 
-- Visual storytelling
-- Concept development
+- Visual storytellings
+- Concept developments
 - Branding design
 - Illustration
 - Presentation
