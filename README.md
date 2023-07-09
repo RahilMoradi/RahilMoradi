@@ -1,16 +1,36 @@
-### Hi there 👋
+## Hi there 👋
+I'm a digital product designer experienced in creating user-centered and intuitive digital design deliverables 👩‍💻 Passionate about crafting innovative and accessible solutions for our modern life experiences 🎯 Tech optimist and fast adopter of new design technologies 🪄
 
-<!--
-**RahilMoradi/RahilMoradi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Expertise
+- Product design
+- User experience design / UED 
+- CX design
+- UX research
+- Information architecture
+- Wireframing
+- Prototyping
+- Interaction Design
+- Visual design
+- UI design
+- Design systems 
+- Visual storytelling
+- Concept development
+- Branding design
+- Illustration
+- Presentation
+- Stakeholder management
+- Design thinking
 
-Here are some ideas to get you started:
+### Tools I Use 💻
+- Figma
+- Sketch
+- Adobe Creative Suite
+- Git
+- HTML/CSS
+- WordPress
+- Jira
+- Zeplin
+- Webflow
+- AutoCAD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's get in touch! 📨 [Linkedin](https://www.linkedin.com/in/rahilmoradi/)
